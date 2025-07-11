@@ -7,6 +7,9 @@ This project explores 100K rows of e-commerce transactions in Brazil using DuckD
 - `data/` — contains the raw CSV files from Kaggle
 - `notebooks/` — (optional) SQL code in notebook format
 
+## Code
+You'll find all the SQL code in the 'ecommerce_analysis.sql' file in this repository
+
 ## 🚀 How to use
 1. Install DuckDB via Homebrew: `brew install duckdb`
 2. Run: `duckdb brazil_ecom.db --ui`
